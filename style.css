@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.kut{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.style{
+    width: 50%;
+    padding:0%;
+    
+}
+.style img{
+     width: 80%;
+}
+.link-button{
+    background-image:linear-gradient(orange,tomato);
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+   color:white;
+    font-weight: 700;
+}
